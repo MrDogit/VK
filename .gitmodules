@@ -1,0 +1,3 @@
+[submodule "vdf"]
+	path = vdf
+	url = https://github.com/ValvePython/vdf.git
